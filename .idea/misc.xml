@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/test/AndroidStudioProjects/innopolis-newsfeed/app/src/main/res/layout/activity_main.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/test/AndroidStudioProjects/innopolis-newsfeed/app/src/main/res/layout/articles_list_item.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/test/AndroidStudioProjects/innopolis-newsfeed/app/src/main/res/layout/fragment_bookmarks_screen.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/test/AndroidStudioProjects/innopolis-newsfeed/app/src/main/res/layout/fragment_mainscreen.xml" value="0.13722826086956522" />
         <entry key="..\:/learn/android/NewsFetcher/app/src/main/res/drawable/sl_favourite_24dp.xml" value="0.37083333333333335" />
         <entry key="..\:/learn/android/NewsFetcher/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/learn/android/NewsFetcher/app/src/main/res/layout/articles_list_item.xml" value="0.33" />

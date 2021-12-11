@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.kadehar.newsfetcher">
+    package="com.github.example.News">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
-        android:name=".NewsFeedApp"
+        android:name="com.github.example.News.News"
         android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:fullBackupOnly="true"
@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NewsFetcher">
         <activity
-            android:name=".MainActivity"
+            android:name="com.github.example.News.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
